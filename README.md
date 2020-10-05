@@ -1,3 +1,7 @@
+This Messenger app created using react.js, firebase, and mongoDB.
+
+[Live Demo](https://messenger-clone-2bf54.web.app/) of the project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
